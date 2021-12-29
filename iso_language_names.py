@@ -11,6 +11,10 @@
 
 # map iso639 language codes to language names, translated
 
+# 한국어 번역은 내맘대로의 EPUBGUIDE.NET에서 하였습니다. - 번역 일자 : 2021-12-29
+# Translate by EPUBGUIDE.NET
+# https://github.com/byword77/calibre-web-translate/blob/main/iso_language_names.py
+
 LANGUAGE_NAMES = {
     "cs": {
         "aar": "afarština",
