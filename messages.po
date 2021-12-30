@@ -817,31 +817,31 @@ msgstr "GitHub에서 사용자 정보를 가져오지 못했습니다."
 
 #: cps/oauth_bb.py:279
 msgid "Failed to log in with Google."
-msgstr ""
+msgstr "구글 로그인에 실패했습니다."
 
 #: cps/oauth_bb.py:285
 msgid "Failed to fetch user info from Google."
-msgstr ""
+msgstr "Google에서 사용자 정보를 가져오지 못했습니다."
 
 #: cps/oauth_bb.py:332
 msgid "GitHub Oauth error, please retry later."
-msgstr ""
+msgstr "GitHub Oauth 오류입니다. 나중에 다시 시도하세요."
 
 #: cps/oauth_bb.py:335
 msgid "GitHub Oauth error: {}"
-msgstr ""
+msgstr "GitHub 인증 오류: {}"
 
 #: cps/oauth_bb.py:356
 msgid "Google Oauth error, please retry later."
-msgstr ""
+msgstr "Google 인증 오류입니다. 나중에 다시 시도하세요."
 
 #: cps/oauth_bb.py:359
 msgid "Google Oauth error: {}"
-msgstr ""
+msgstr "Google 인증 오류: {}"
 
 #: cps/opds.py:384
 msgid "{} Stars"
-msgstr ""
+msgstr "{} Stars"
 
 #: cps/remotelogin.py:65 cps/templates/layout.html:84
 #: cps/templates/login.html:4 cps/templates/login.html:21 cps/web.py:1583
@@ -870,7 +870,7 @@ msgstr "최근 책 보기"
 
 #: cps/render_template.py:42 cps/templates/index.xml:25
 msgid "Hot Books"
-msgstr "주목받는 책"
+msgstr "인기있는 책"
 
 #: cps/render_template.py:44
 msgid "Show Hot Books"
@@ -1136,271 +1136,271 @@ msgstr "발견(무작위 도서)"
 
 #: cps/web.py:471
 msgid "Hot Books (Most Downloaded)"
-msgstr "Популярні книги (найбільш завантажувані)"
+msgstr "인기있는 책(가장 많이 다운로드됨)"
 
 #: cps/web.py:507
 #, python-format
 msgid "Downloaded books by %(user)s"
-msgstr ""
+msgstr "%(user)s이(가) 다운로드한 책"
 
 #: cps/web.py:539
 #, python-format
 msgid "Author: %(name)s"
-msgstr ""
+msgstr "저자: %(name)s"
 
 #: cps/web.py:554
 #, python-format
 msgid "Publisher: %(name)s"
-msgstr ""
+msgstr "출판사: %(name)s"
 
 #: cps/web.py:569
 #, python-format
 msgid "Series: %(serie)s"
-msgstr "Серії: %(serie)s"
+msgstr "시리즈: %(serie)s"
 
 #: cps/web.py:582
 #, python-format
 msgid "Rating: %(rating)s stars"
-msgstr ""
+msgstr "평가: %(rating)s 별"
 
 #: cps/web.py:597
 #, python-format
 msgid "File format: %(format)s"
-msgstr ""
+msgstr "파일 유형: %(format)s"
 
 #: cps/web.py:615
 #, python-format
 msgid "Category: %(name)s"
-msgstr "Категорія: %(name)s"
+msgstr "카테고리: %(name)s"
 
 #: cps/web.py:631
 #, python-format
 msgid "Language: %(name)s"
-msgstr "Мова: %(name)s"
+msgstr "언어: %(name)s"
 
 #: cps/templates/layout.html:56 cps/web.py:737 cps/web.py:1370
 msgid "Advanced Search"
-msgstr "Розширений пошук"
+msgstr "상세 검색"
 
 #: cps/templates/book_edit.html:235 cps/templates/feed.xml:33
 #: cps/templates/index.xml:11 cps/templates/layout.html:45
 #: cps/templates/layout.html:48 cps/templates/search_form.html:226
 #: cps/web.py:750 cps/web.py:1076
 msgid "Search"
-msgstr "Пошук"
+msgstr "검색"
 
 #: cps/templates/admin.html:16 cps/web.py:903
 msgid "Downloads"
-msgstr "DLS"
+msgstr "다운로드"
 
 #: cps/web.py:980
 msgid "Ratings list"
-msgstr ""
+msgstr "평점 목록"
 
 #: cps/web.py:1001
 msgid "File formats list"
-msgstr ""
+msgstr "파일 유형 목록"
 
 #: cps/templates/layout.html:73 cps/templates/tasks.html:7 cps/web.py:1055
 msgid "Tasks"
-msgstr ""
+msgstr "작업"
 
 #: cps/web.py:1214
 msgid "Published after "
-msgstr ""
+msgstr "Published after"
 
 #: cps/web.py:1221
 msgid "Published before "
-msgstr "Опубліковано до"
+msgstr "Published before"
 
 #: cps/web.py:1243
 #, python-format
 msgid "Rating <= %(rating)s"
-msgstr ""
+msgstr "평점 <= %(rating)s"
 
 #: cps/web.py:1245
 #, python-format
 msgid "Rating >= %(rating)s"
-msgstr ""
+msgstr "평점 >= %(rating)s"
 
 #: cps/web.py:1247
 #, python-format
 msgid "Read Status = %(status)s"
-msgstr ""
+msgstr "읽은 상태 = %(status)s"
 
 #: cps/web.py:1352
 msgid "Error on search for custom columns, please restart Calibre-Web"
-msgstr ""
+msgstr "사용자 정의 열을 검색하는 동안 오류가 발생했습니다. Calibre-Web을 다시 시작하십시오."
 
 #: cps/web.py:1448
 #, python-format
 msgid "Book successfully queued for sending to %(kindlemail)s"
-msgstr ""
+msgstr "성공적으로 %(kindlemail)s에 보내기 예약이 되었습니다."
 
 #: cps/web.py:1452
 #, python-format
 msgid "Oops! There was an error sending this book: %(res)s"
-msgstr "Помилка при відправці книги: %(res)s"
+msgstr "책을 보내는 중에 오류 발생: %(res)s"
 
 #: cps/web.py:1454
 msgid "Please update your profile with a valid Send to Kindle E-mail Address."
-msgstr ""
+msgstr "Kindle로 보내는 유효한 이메일 주소로 프로필을 업데이트하십시오."
 
 #: cps/web.py:1471
 msgid "E-Mail server is not configured, please contact your administrator!"
-msgstr ""
+msgstr "이메일 서버가 구성되지 않았습니다. 관리자에게 문의하십시오!"
 
 #: cps/templates/layout.html:85 cps/templates/register.html:17 cps/web.py:1472
 #: cps/web.py:1479 cps/web.py:1485 cps/web.py:1504 cps/web.py:1508
 #: cps/web.py:1514
 msgid "Register"
-msgstr "Зареєструватись"
+msgstr "등록"
 
 #: cps/web.py:1506
 msgid "Your e-mail is not allowed to register"
-msgstr ""
+msgstr "이메일을 등록할 수 없습니다."
 
 #: cps/web.py:1509
 msgid "Confirmation e-mail was send to your e-mail account."
-msgstr ""
+msgstr "확인을 위한 이메일이 발송되었습니다."
 
 #: cps/web.py:1523
 msgid "Cannot activate LDAP authentication"
-msgstr ""
+msgstr "LDAP 인증을 활성화할 수 없습니다."
 
 #: cps/web.py:1542
 #, python-format
 msgid "Fallback Login as: '%(nickname)s', LDAP Server not reachable, or user not known"
-msgstr ""
+msgstr "대체 로그인: '%(nickname)s', LDAP 서버에 연결할 수 없음 또는 사용자를 알 수 없음"
 
 #: cps/web.py:1548
 #, python-format
 msgid "Could not login: %(message)s"
-msgstr ""
+msgstr "로그인 실패: %(message)s"
 
 #: cps/web.py:1552 cps/web.py:1577
 msgid "Wrong Username or Password"
-msgstr "Помилка в імені користувача або паролі"
+msgstr "잘못된 사용자명 또는 비밀번호"
 
 #: cps/web.py:1559
 msgid "New Password was send to your email address"
-msgstr ""
+msgstr "새 비밀번호가 이메일로 전송되었습니다."
 
 #: cps/web.py:1565
 msgid "Please enter valid username to reset password"
-msgstr ""
+msgstr "비밀번호를 재설정하려면 유효한 사용자 이름을 입력하십시오."
 
 #: cps/web.py:1572
 #, python-format
 msgid "You are now logged in as: '%(nickname)s'"
-msgstr ""
+msgstr "로그인을 할 수 없음: '%(nickname)s"
 
 #: cps/web.py:1638 cps/web.py:1687
 #, python-format
 msgid "%(name)s's profile"
-msgstr "Профіль %(name)s"
+msgstr "%(name)s 프로필"
 
 #: cps/web.py:1654
 msgid "Profile updated"
-msgstr "Профіль оновлено"
+msgstr "프로필이 업데이트 됨"
 
 #: cps/services/gmail.py:58
 msgid "Found no valid gmail.json file with OAuth information"
-msgstr ""
+msgstr "인증 정보가 포함된 유효한 gmail.json 파일을 찾을 수 없습니다."
 
 #: cps/tasks/convert.py:137
 #, python-format
 msgid "Calibre ebook-convert %(tool)s not found"
-msgstr ""
+msgstr "Calibre ebook-convert %(tool)s을(를) 찾을 수 없습니다."
 
 #: cps/tasks/convert.py:163
 #, python-format
 msgid "%(format)s format not found on disk"
-msgstr ""
+msgstr "%(format)s 형식을 찾을 수 없습니다."
 
 #: cps/tasks/convert.py:167
 msgid "Ebook converter failed with unknown error"
-msgstr ""
+msgstr "알 수 없는 오류로 인해 전자책 변환이 실패했습니다."
 
 #: cps/tasks/convert.py:177
 #, python-format
 msgid "Kepubify-converter failed: %(error)s"
-msgstr ""
+msgstr "Kepubify 변환 실패: %(error)s"
 
 #: cps/tasks/convert.py:199
 #, python-format
 msgid "Converted file not found or more than one file in folder %(folder)s"
-msgstr ""
+msgstr "변환된 파일을 찾을 수 없거나 %(folder)s 폴더에 하나 이상의 파일이 존재합니다."
 
 #: cps/tasks/convert.py:222
 #, python-format
 msgid "Ebook-converter failed: %(error)s"
-msgstr ""
+msgstr ""전자책 변환 실패: %(error)s"
 
 #: cps/tasks/convert.py:241
 #, python-format
 msgid "Calibre failed with error: %(error)s"
-msgstr ""
+msgstr "오류로 인한 Calibre 실패: %(error)s"
 
 #: cps/templates/admin.html:9
 msgid "Users"
-msgstr "Список користувачів"
+msgstr "사용자"
 
 #: cps/templates/admin.html:13 cps/templates/login.html:9
 #: cps/templates/login.html:10 cps/templates/register.html:9
 #: cps/templates/user_edit.html:10 cps/templates/user_table.html:134
 msgid "Username"
-msgstr "Ім'я користувача"
+msgstr "사용자명"
 
 #: cps/templates/admin.html:14 cps/templates/register.html:14
 #: cps/templates/user_edit.html:15 cps/templates/user_table.html:135
 msgid "E-mail Address"
-msgstr ""
+msgstr "이메일 주소"
 
 #: cps/templates/admin.html:15 cps/templates/user_edit.html:28
 msgid "Send to Kindle E-mail Address"
-msgstr "Kindle"
+msgstr "킨들로 보내기 이메일 주소"
 
 #: cps/templates/admin.html:17 cps/templates/layout.html:76
 #: cps/templates/user_table.html:143
 msgid "Admin"
-msgstr "Адмін"
+msgstr "관리자"
 
 #: cps/templates/admin.html:18 cps/templates/login.html:13
 #: cps/templates/login.html:14 cps/templates/user_edit.html:23
 msgid "Password"
-msgstr "Пароль"
+msgstr "비밀번호"
 
 #: cps/templates/admin.html:20 cps/templates/layout.html:66
 #: cps/templates/user_table.html:145
 msgid "Upload"
-msgstr "Додати нову книгу"
+msgstr "업로드"
 
 #: cps/templates/admin.html:22 cps/templates/detail.html:18
 #: cps/templates/detail.html:27 cps/templates/shelf.html:6
 #: cps/templates/user_table.html:146
 msgid "Download"
-msgstr "Завантажити"
+msgstr "다운로드"
 
 #: cps/templates/admin.html:23
 msgid "View Books"
-msgstr ""
+msgstr "책 보기"
 
 #: cps/templates/admin.html:24 cps/templates/user_table.html:131
 #: cps/templates/user_table.html:148
 msgid "Edit"
-msgstr "Редагувати"
+msgstr "편집"
 
 #: cps/templates/admin.html:25 cps/templates/book_edit.html:16
 #: cps/templates/book_table.html:97 cps/templates/modal_dialogs.html:63
 #: cps/templates/modal_dialogs.html:116 cps/templates/user_edit.html:67
 #: cps/templates/user_table.html:149
 msgid "Delete"
-msgstr "Видалити"
+msgstr "삭제"
 
 #: cps/templates/admin.html:26
 msgid "Public Shelf"
-msgstr ""
+msgstr "공개 책장"
 
 #: cps/templates/admin.html:51
 msgid "Add New User"
