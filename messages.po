@@ -1767,35 +1767,35 @@ msgstr "키워드 검색"
 
 #: cps/templates/book_edit.html:239
 msgid "Click the cover to load metadata to the form"
-msgstr "Натисніть на обкладинку, щоб отримати метадані"
+msgstr "표지를 클릭하여 양식에 메타데이터 로드"
 
 #: cps/templates/book_edit.html:246 cps/templates/book_edit.html:285
 msgid "Loading..."
-msgstr "Завантаження..."
+msgstr "불러오는 중..."
 
 #: cps/templates/book_edit.html:250 cps/templates/layout.html:63
 #: cps/templates/layout.html:186 cps/templates/modal_dialogs.html:34
 #: cps/templates/user_edit.html:163
 msgid "Close"
-msgstr "Закрити"
+msgstr "닫기"
 
 #: cps/templates/book_edit.html:277 cps/templates/book_edit.html:291
 msgid "Source"
-msgstr "Джерело"
+msgstr "출처"
 
 #: cps/templates/book_edit.html:286
 msgid "Search error!"
-msgstr "Помилка пошуку!"
+msgstr "오류 검색!"
 
 #: cps/templates/book_edit.html:287
 msgid "No Result(s) found! Please try another keyword."
-msgstr ""
+msgstr "검색 결과가 없습니다! 다른 키워드를 시도하십시오."
 
 #: cps/templates/book_table.html:12 cps/templates/book_table.html:69
 #: cps/templates/user_table.html:14 cps/templates/user_table.html:77
 #: cps/templates/user_table.html:100
 msgid "This Field is Required"
-msgstr ""
+msgstr "이 필드는 필수 항목입니다."
 
 #: cps/templates/book_table.html:37
 msgid "Merge selected books"
@@ -1803,80 +1803,80 @@ msgstr ""
 
 #: cps/templates/book_table.html:38 cps/templates/user_table.html:124
 msgid "Remove Selections"
-msgstr ""
+msgstr "선택 제거"
 
 #: cps/templates/book_table.html:41
 msgid "Exchange author and title"
-msgstr ""
+msgstr "저자 및 제목 교환"
 
 #: cps/templates/book_table.html:47
 msgid "Update Title Sort automatically"
-msgstr ""
+msgstr "자동으로 제목 정렬 업데이트"
 
 #: cps/templates/book_table.html:51
 msgid "Update Author Sort automatically"
-msgstr ""
+msgstr "자동으로 작성자 정렬 업데이트"
 
 #: cps/templates/book_table.html:63 cps/templates/book_table.html:69
 msgid "Enter Title"
-msgstr ""
+msgstr "제목 입력"
 
 #: cps/templates/book_table.html:63 cps/templates/config_view_edit.html:24
 #: cps/templates/shelf_edit.html:8
 msgid "Title"
-msgstr "Заголовок"
+msgstr "제목"
 
 #: cps/templates/book_table.html:64
 msgid "Enter Title Sort"
-msgstr ""
+msgstr "제목 정렬 입력"
 
 #: cps/templates/book_table.html:64
 msgid "Title Sort"
-msgstr ""
+msgstr "제목 정렬"
 
 #: cps/templates/book_table.html:65
 msgid "Enter Author Sort"
-msgstr ""
+msgstr "저자 정렬 입력"
 
 #: cps/templates/book_table.html:65
 msgid "Author Sort"
-msgstr ""
+msgstr "저자 정렬"
 
 #: cps/templates/book_table.html:66
 msgid "Enter Authors"
-msgstr ""
+msgstr "저자 입력"
 
 #: cps/templates/book_table.html:67
 msgid "Enter Categories"
-msgstr ""
+msgstr "카테고리 입력"
 
 #: cps/templates/book_table.html:68
 msgid "Enter Series"
-msgstr ""
+msgstr "시리즈 입력"
 
 #: cps/templates/book_table.html:69
 msgid "Series Index"
-msgstr ""
+msgstr "시리즈 색인"
 
 #: cps/templates/book_table.html:70
 msgid "Enter Languages"
-msgstr ""
+msgstr "언어 입력"
 
 #: cps/templates/book_table.html:71
 msgid "Publishing Date"
-msgstr ""
+msgstr "출간일"
 
 #: cps/templates/book_table.html:72
 msgid "Enter Publishers"
-msgstr ""
+msgstr "출판사 입력"
 
 #: cps/templates/book_table.html:73
 msgid "Enter comments"
-msgstr ""
+msgstr "코멘트 입력"
 
 #: cps/templates/book_table.html:73
 msgid "Comments"
-msgstr ""
+msgstr "코멘트"
 
 #: cps/templates/book_table.html:77 cps/templates/book_table.html:79
 #: cps/templates/book_table.html:81 cps/templates/book_table.html:83
@@ -1884,39 +1884,39 @@ msgstr ""
 #: cps/templates/book_table.html:91 cps/templates/book_table.html:93
 #, fuzzy
 msgid "Enter "
-msgstr "Зареєструватись"
+msgstr "입력"
 
 #: cps/templates/book_table.html:110 cps/templates/modal_dialogs.html:46
 msgid "Are you really sure?"
-msgstr ""
+msgstr "정말 확신합니까?"
 
 #: cps/templates/book_table.html:114
 msgid "Books with Title will be merged from:"
-msgstr ""
+msgstr "제목이 있는 책은 다음에서 병합됩니다."
 
 #: cps/templates/book_table.html:118
 msgid "Into Book with Title:"
-msgstr ""
+msgstr "제목이 있는 책으로:"
 
 #: cps/templates/book_table.html:123
 msgid "Merge"
-msgstr ""
+msgstr "병합"
 
 #: cps/templates/config_db.html:12
 msgid "Location of Calibre Database"
-msgstr "Розташування БД Calibre"
+msgstr "Calibre Database 위치"
 
 #: cps/templates/config_db.html:22
 msgid "Use Google Drive?"
-msgstr "Використовувати Google Drive?"
+msgstr "Google 드라이브를 사용하시겠습니까?"
 
 #: cps/templates/config_db.html:27
 msgid "Authenticate Google Drive"
-msgstr "Автентифікація Google Drive"
+msgstr "구글 드라이브 인증"
 
 #: cps/templates/config_db.html:32
 msgid "Google Drive Calibre folder"
-msgstr "Папка Calibre в Google Drive"
+msgstr "Google Drive Calibre 폴더"
 
 #: cps/templates/config_db.html:40
 msgid "Metadata Watch Channel ID"
@@ -1924,240 +1924,240 @@ msgstr "Metadata Watch Channel ID"
 
 #: cps/templates/config_db.html:43
 msgid "Revoke"
-msgstr "Скасувати"
+msgstr "취소"
 
 #: cps/templates/config_db.html:68
 msgid "New db location is invalid, please enter valid path"
-msgstr ""
+msgstr "새 db 위치가 잘못되었습니다. 올바른 경로를 입력하십시오."
 
 #: cps/templates/config_edit.html:18
 msgid "Server Configuration"
-msgstr "Налаштування серверу"
+msgstr "서버 구성"
 
 #: cps/templates/config_edit.html:25
 msgid "Server Port"
-msgstr "Порт сервера"
+msgstr "Server Port"
 
 #: cps/templates/config_edit.html:28
 msgid "SSL certfile location (leave it empty for non-SSL Servers)"
-msgstr "Розташування сертифіката SSL (залиште його порожнім для серверів, які не використовують SSL)"
+msgstr "SSL 인증서 파일 위치(비 SSL 서버의 경우 비워 둡니다)"
 
 #: cps/templates/config_edit.html:35
 msgid "SSL Keyfile location (leave it empty for non-SSL Servers)"
-msgstr "Розташування ключових слів SSL (залиште його порожнім для серверів, які не використовують SSL)"
+msgstr "SSL 키 파일 위치(비 SSL 서버의 경우 비워 둡니다)"
 
 #: cps/templates/config_edit.html:43
 msgid "Update Channel"
-msgstr ""
+msgstr "업데이트 취소"
 
 #: cps/templates/config_edit.html:45
 msgid "Stable"
-msgstr ""
+msgstr "안정버전"
 
 #: cps/templates/config_edit.html:46
 msgid "Nightly"
-msgstr ""
+msgstr "실험버전"
 
 #: cps/templates/config_edit.html:50
 msgid "Trusted Hosts (Comma Separated)"
-msgstr ""
+msgstr "신뢰할 수 있는 호스트(쉼표로 구분)"
 
 #: cps/templates/config_edit.html:61
 msgid "Logfile Configuration"
-msgstr "Logfile налаштування"
+msgstr "Logfile 설정"
 
 #: cps/templates/config_edit.html:77
 msgid "Location and name of logfile (calibre-web.log for no entry)"
-msgstr "Розташування і назва логфайлу (calibre-web.log for no entry)"
+msgstr "로그 파일의 위치 및 이름(항목이 없는 경우 calibre-web.log)"
 
 #: cps/templates/config_edit.html:82
 msgid "Enable Access Log"
-msgstr ""
+msgstr "액세스 로그 활성화"
 
 #: cps/templates/config_edit.html:85
 msgid "Location and name of access logfile (access.log for no entry)"
-msgstr ""
+msgstr "액세스 로그 파일의 위치 및 이름(항목이 없는 경우 access.log)"
 
 #: cps/templates/config_edit.html:96
 msgid "Feature Configuration"
-msgstr "Особливі налаштування"
+msgstr "기능 설정"
 
 #: cps/templates/config_edit.html:104
 msgid "Convert non-English characters in title and author while saving to disk"
-msgstr ""
+msgstr "제목과 저자가 영어가 아닌 경우 원어로 저장하기"
 
 #: cps/templates/config_edit.html:108
 msgid "Enable Uploads"
-msgstr "Дозволити завантаження книг на сервер"
+msgstr "업로드 활성화"
 
 #: cps/templates/config_edit.html:108
 msgid "(Please ensure users having also upload rights)"
-msgstr ""
+msgstr "(사용자에게 업로드 권한도 있는지 확인하십시오)"
 
 #: cps/templates/config_edit.html:112
 msgid "Allowed Upload Fileformats"
-msgstr ""
+msgstr "허용된 업로드 파일 형식"
 
 #: cps/templates/config_edit.html:118
 msgid "Enable Anonymous Browsing"
-msgstr "Дозволити анонімний перегляд"
+msgstr "익명 탐색 활성화"
 
 #: cps/templates/config_edit.html:122
 msgid "Enable Public Registration"
-msgstr "Дозволити публічну реєстрацію"
+msgstr "공개 등록 활성화"
 
 #: cps/templates/config_edit.html:127
 msgid "Use E-Mail as Username"
-msgstr ""
+msgstr "이메일을 사용자 이름으로 사용"
 
 #: cps/templates/config_edit.html:132
 msgid "Enable Magic Link Remote Login"
-msgstr "Включити віддалений логін (\"magic link\")"
+msgstr "Enable Magic Link Remote Login"
 
 #: cps/templates/config_edit.html:137
 msgid "Enable Kobo sync"
-msgstr ""
+msgstr "Kobo sync 활성화"
 
 #: cps/templates/config_edit.html:142
 msgid "Proxy unknown requests to Kobo Store"
-msgstr ""
+msgstr "Kobo Store에 알 수 없는 요청 프록시"
 
 #: cps/templates/config_edit.html:145
 msgid "Server External Port (for port forwarded API calls)"
-msgstr ""
+msgstr "서버 외부 포트(포트 전달 API 호출용)"
 
 #: cps/templates/config_edit.html:153
 msgid "Use Goodreads"
-msgstr ""
+msgstr "Goodreads 사용"
 
 #: cps/templates/config_edit.html:154
 msgid "Create an API Key"
-msgstr "Отримати ключ API"
+msgstr "API 키 생성"
 
 #: cps/templates/config_edit.html:158
 msgid "Goodreads API Key"
-msgstr ""
+msgstr "Goodreads API Key"
 
 #: cps/templates/config_edit.html:162
 msgid "Goodreads API Secret"
-msgstr ""
+msgstr "Goodreads API Secret"
 
 #: cps/templates/config_edit.html:169
 msgid "Allow Reverse Proxy Authentication"
-msgstr ""
+msgstr "역방향 프록시 인증 허용"
 
 #: cps/templates/config_edit.html:180
 msgid "Login type"
-msgstr ""
+msgstr "로그인 유형"
 
 #: cps/templates/config_edit.html:182
 msgid "Use Standard Authentication"
-msgstr ""
+msgstr "표준 인증 사용"
 
 #: cps/templates/config_edit.html:184
 msgid "Use LDAP Authentication"
-msgstr ""
+msgstr "LDAP 인증 사용"
 
 #: cps/templates/config_edit.html:187
 msgid "Use OAuth"
-msgstr ""
+msgstr "OAuth 사용"
 
 #: cps/templates/config_edit.html:194
 msgid "LDAP Server Host Name or IP Address"
-msgstr ""
+msgstr "LDAP 서버 호스트 이름 또는 IP 주소"
 
 #: cps/templates/config_edit.html:198
 msgid "LDAP Server Port"
-msgstr ""
+msgstr "LDAP 서버 포트"
 
 #: cps/templates/config_edit.html:202
 msgid "LDAP Encryption"
-msgstr ""
+msgstr "LDAP 암호화"
 
 #: cps/templates/config_edit.html:204 cps/templates/config_view_edit.html:62
 #: cps/templates/email_edit.html:41
 msgid "None"
-msgstr "Ні"
+msgstr "None"
 
 #: cps/templates/config_edit.html:205
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 #: cps/templates/config_edit.html:206
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 #: cps/templates/config_edit.html:210
 msgid "LDAP CACertificate Path (Only needed for Client Certificate Authentication)"
-msgstr ""
+msgstr "LDAP CACertificate 경로(클라이언트 인증서 인증에만 필요)"
 
 #: cps/templates/config_edit.html:217
 msgid "LDAP Certificate Path (Only needed for Client Certificate Authentication)"
-msgstr ""
+msgstr "LDAP 인증서 경로(클라이언트 인증서 인증에만 필요)"
 
 #: cps/templates/config_edit.html:224
 msgid "LDAP Keyfile Path (Only needed for Client Certificate Authentication)"
-msgstr ""
+msgstr "LDAP 키 파일 경로(클라이언트 인증서 인증에만 필요)"
 
 #: cps/templates/config_edit.html:233
 msgid "LDAP Authentication"
-msgstr ""
+msgstr "LDAP 인증"
 
 #: cps/templates/config_edit.html:235
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonymous"
 
 #: cps/templates/config_edit.html:236
 msgid "Unauthenticated"
-msgstr ""
+msgstr "인증되지 않음"
 
 #: cps/templates/config_edit.html:237
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: cps/templates/config_edit.html:242
 msgid "LDAP Administrator Username"
-msgstr ""
+msgstr "LDAP 관리자 사용자 이름"
 
 #: cps/templates/config_edit.html:248
 msgid "LDAP Administrator Password"
-msgstr ""
+msgstr "LDAP 관리자 비밀번호"
 
 #: cps/templates/config_edit.html:253
 msgid "LDAP Distinguished Name (DN)"
-msgstr ""
+msgstr "LDAP 고유 이름(DN)"
 
 #: cps/templates/config_edit.html:257
 msgid "LDAP User Object Filter"
-msgstr ""
+msgstr "LDAP User Object Filter"
 
 #: cps/templates/config_edit.html:262
 msgid "LDAP Server is OpenLDAP?"
-msgstr ""
+msgstr "LDAP Server is OpenLDAP?"
 
 #: cps/templates/config_edit.html:264
 msgid "Following Settings are Needed For User Import"
-msgstr ""
+msgstr "사용자 가져오기에는 다음 설정이 필요합니다."
 
 #: cps/templates/config_edit.html:266
 msgid "LDAP Group Object Filter"
-msgstr ""
+msgstr "LDAP 그룹 개체 필터"
 
 #: cps/templates/config_edit.html:270
 msgid "LDAP Group Name"
-msgstr ""
+msgstr "DAP 그룹 이름"
 
 #: cps/templates/config_edit.html:274
 msgid "LDAP Group Members Field"
-msgstr ""
+msgstr "LDAP 그룹 구성원 필드"
 
 #: cps/templates/config_edit.html:278
 msgid "LDAP Member User Filter Detection"
-msgstr ""
+msgstr "LDAP 구성원 사용자 필터 감지"
 
 #: cps/templates/config_edit.html:280
 msgid "Autodetect"
-msgstr ""
+msgstr "자동 감지"
 
 #: cps/templates/config_edit.html:281
 msgid "Custom Filter"
