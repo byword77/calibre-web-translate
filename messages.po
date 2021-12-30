@@ -1404,163 +1404,163 @@ msgstr "공개 책장"
 
 #: cps/templates/admin.html:51
 msgid "Add New User"
-msgstr ""
+msgstr "사용자 추가"
 
 #: cps/templates/admin.html:53
 msgid "Import LDAP Users"
-msgstr ""
+msgstr "LDAP 사용자 가져오기"
 
 #: cps/templates/admin.html:60
 msgid "E-mail Server Settings"
-msgstr ""
+msgstr "이메일 서버 설정"
 
 #: cps/templates/admin.html:65 cps/templates/email_edit.html:31
 msgid "SMTP Hostname"
-msgstr "SMTP-сервер"
+msgstr "SMTP Hostname"
 
 #: cps/templates/admin.html:69 cps/templates/email_edit.html:35
 msgid "SMTP Port"
-msgstr "SMTP-порт"
+msgstr "SMTP Port"
 
 #: cps/templates/admin.html:73 cps/templates/email_edit.html:39
 msgid "Encryption"
-msgstr "SSL"
+msgstr "암호화"
 
 #: cps/templates/admin.html:77 cps/templates/email_edit.html:47
 msgid "SMTP Login"
-msgstr "SMTP логін"
+msgstr "SMTP Login"
 
 #: cps/templates/admin.html:81 cps/templates/admin.html:92
 #: cps/templates/email_edit.html:55
 msgid "From E-mail"
-msgstr "Відправник"
+msgstr "From E-mail"
 
 #: cps/templates/admin.html:88
 msgid "E-Mail Service"
-msgstr ""
+msgstr "E-Mail Service"
 
 #: cps/templates/admin.html:89
 msgid "Gmail via Oauth2"
-msgstr ""
+msgstr "Gmail via Oauth2"
 
 #: cps/templates/admin.html:104
 msgid "Configuration"
-msgstr "Налаштування сервера"
+msgstr "환경 설정"
 
 #: cps/templates/admin.html:107
 msgid "Calibre Database Directory"
-msgstr "Папка Calibre DB"
+msgstr "Calibre DB 폴더"
 
 #: cps/templates/admin.html:111 cps/templates/config_edit.html:68
 msgid "Log Level"
-msgstr ""
+msgstr "Log Level"
 
 #: cps/templates/admin.html:115
 msgid "Port"
-msgstr "Порт"
+msgstr "Port"
 
 #: cps/templates/admin.html:120
 msgid "External Port"
-msgstr ""
+msgstr "External Port"
 
 #: cps/templates/admin.html:127 cps/templates/config_view_edit.html:28
 msgid "Books per Page"
-msgstr "Кількість книг на сторінці"
+msgstr "페이지당 보여 줄 책 수"
 
 #: cps/templates/admin.html:131
 msgid "Uploads"
-msgstr "Загрузка на сервер"
+msgstr "업로드"
 
 #: cps/templates/admin.html:135
 msgid "Anonymous Browsing"
-msgstr "Анонімний перегляд"
+msgstr "익명 보기"
 
 #: cps/templates/admin.html:139
 msgid "Public Registration"
-msgstr "Публічна реєстрація"
+msgstr "공개 등록"
 
 #: cps/templates/admin.html:143
 msgid "Magic Link Remote Login"
-msgstr ""
+msgstr "Magic Link Remote Login"
 
 #: cps/templates/admin.html:147
 msgid "Reverse Proxy Login"
-msgstr ""
+msgstr "Reverse Proxy Login"
 
 #: cps/templates/admin.html:152 cps/templates/config_edit.html:173
 msgid "Reverse Proxy Header Name"
-msgstr ""
+msgstr "Reverse Proxy Header Name"
 
 #: cps/templates/admin.html:157
 #, fuzzy
 msgid "Edit Calibre Database Configuration"
-msgstr "Папка Calibre DB"
+msgstr "Calibre Database 환경 설정 편집"
 
 #: cps/templates/admin.html:158
 msgid "Edit Basic Configuration"
-msgstr ""
+msgstr "기본 환경 설정 편집"
 
 #: cps/templates/admin.html:159
 msgid "Edit UI Configuration"
-msgstr ""
+msgstr "UI 환경 설정 편집"
 
 #: cps/templates/admin.html:164
 msgid "Administration"
-msgstr "Адміністрування"
+msgstr "관리"
 
 #: cps/templates/admin.html:165
 msgid "Download Debug Package"
-msgstr ""
+msgstr "Debug Package 다운로드"
 
 #: cps/templates/admin.html:166
 msgid "View Logs"
-msgstr ""
+msgstr "로그 보기"
 
 #: cps/templates/admin.html:169
 msgid "Reconnect Calibre Database"
-msgstr "Повторне підключення до БД Calibre"
+msgstr "Calibre DB 다시 연결"
 
 #: cps/templates/admin.html:170
 msgid "Restart"
-msgstr ""
+msgstr "재시작"
 
 #: cps/templates/admin.html:171
 msgid "Shutdown"
-msgstr ""
+msgstr "종료"
 
 #: cps/templates/admin.html:176
 msgid "Update"
-msgstr ""
+msgstr "업데이트"
 
 #: cps/templates/admin.html:180
 msgid "Version"
-msgstr ""
+msgstr "버전"
 
 #: cps/templates/admin.html:181
 msgid "Details"
-msgstr ""
+msgstr "세부 정보"
 
 #: cps/templates/admin.html:187
 msgid "Current version"
-msgstr ""
+msgstr "현재 버전"
 
 #: cps/templates/admin.html:195
 msgid "Check for Update"
-msgstr "Перевірка оновлень"
+msgstr "업데이트 확인"
 
 #: cps/templates/admin.html:196
 msgid "Perform Update"
-msgstr "Встановити оновлення"
+msgstr "업데이트 실행"
 
 #: cps/templates/admin.html:209
 msgid "Are you sure you want to restart?"
-msgstr ""
+msgstr "재시작을 하시겠습니까?"
 
 #: cps/templates/admin.html:214 cps/templates/admin.html:228
 #: cps/templates/admin.html:248 cps/templates/config_db.html:70
 #: cps/templates/shelf.html:96
 msgid "OK"
-msgstr "Ok"
+msgstr "예"
 
 #: cps/templates/admin.html:215 cps/templates/admin.html:229
 #: cps/templates/book_edit.html:213 cps/templates/book_table.html:124
@@ -1570,11 +1570,11 @@ msgstr "Ok"
 #: cps/templates/modal_dialogs.html:135 cps/templates/shelf.html:97
 #: cps/templates/shelf_edit.html:27 cps/templates/user_edit.html:144
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: cps/templates/admin.html:227
 msgid "Are you sure you want to shutdown?"
-msgstr ""
+msgstr "종료를 하시겠습니까?"
 
 #: cps/templates/admin.html:239
 msgid "Updating, please do not reload this page"
@@ -1582,21 +1582,21 @@ msgstr "Встановлення оновлень, будь-ласка, не о�
 
 #: cps/templates/author.html:15
 msgid "via"
-msgstr "через"
+msgstr "via"
 
 #: cps/templates/author.html:23
 msgid "In Library"
-msgstr "У бібліотеці"
+msgstr "In Library"
 
 #: cps/templates/author.html:26 cps/templates/index.html:72
 #: cps/templates/search.html:29 cps/templates/shelf.html:17
 msgid "Sort according to book date, newest first"
-msgstr ""
+msgstr "책 목록 정렬, 최신순"
 
 #: cps/templates/author.html:27 cps/templates/index.html:73
 #: cps/templates/search.html:30 cps/templates/shelf.html:18
 msgid "Sort according to book date, oldest first"
-msgstr ""
+msgstr "책 목록 정렬, oldest first"
 
 #: cps/templates/author.html:28 cps/templates/index.html:74
 #: cps/templates/search.html:31 cps/templates/shelf.html:19
