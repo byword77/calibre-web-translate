@@ -1596,174 +1596,174 @@ msgstr "책 목록 정렬, 최신순"
 #: cps/templates/author.html:27 cps/templates/index.html:73
 #: cps/templates/search.html:30 cps/templates/shelf.html:18
 msgid "Sort according to book date, oldest first"
-msgstr "책 목록 정렬, oldest first"
+msgstr "책 목록 정렬, 오래된 순"
 
 #: cps/templates/author.html:28 cps/templates/index.html:74
 #: cps/templates/search.html:31 cps/templates/shelf.html:19
 msgid "Sort title in alphabetical order"
-msgstr ""
+msgstr "가나다 순 정렬"
 
 #: cps/templates/author.html:29 cps/templates/index.html:75
 #: cps/templates/search.html:32 cps/templates/shelf.html:20
 msgid "Sort title in reverse alphabetical order"
-msgstr ""
+msgstr "가나다 역순 정렬"
 
 #: cps/templates/author.html:30 cps/templates/index.html:78
 #: cps/templates/search.html:35 cps/templates/shelf.html:23
 msgid "Sort according to publishing date, newest first"
-msgstr ""
+msgstr "발행일 순으로 정렬, 최신순"
 
 #: cps/templates/author.html:31 cps/templates/index.html:79
 #: cps/templates/search.html:36 cps/templates/shelf.html:24
 msgid "Sort according to publishing date, oldest first"
-msgstr ""
+msgstr "발행일 순으로 정렬, 오래된 순"
 
 #: cps/templates/author.html:57 cps/templates/author.html:117
 #: cps/templates/discover.html:30 cps/templates/index.html:29
 #: cps/templates/index.html:111 cps/templates/search.html:65
 #: cps/templates/shelf.html:52
 msgid "reduce"
-msgstr ""
+msgstr "reduce"
 
 #: cps/templates/author.html:101
 msgid "More by"
-msgstr "Більше за"
+msgstr "More by"
 
 #: cps/templates/book_edit.html:10
 msgid "Delete Book"
-msgstr "Видалити книгу"
+msgstr "책 삭제"
 
 #: cps/templates/book_edit.html:13
 msgid "Delete formats:"
-msgstr ""
+msgstr "유형 삭제"
 
 #: cps/templates/book_edit.html:24
 msgid "Convert book format:"
-msgstr ""
+msgstr "책 유형 변경"
 
 #: cps/templates/book_edit.html:29
 msgid "Convert from:"
-msgstr ""
+msgstr "변경전 유형:"
 
 #: cps/templates/book_edit.html:31 cps/templates/book_edit.html:38
 msgid "select an option"
-msgstr ""
+msgstr "옵션 선택"
 
 #: cps/templates/book_edit.html:36
 msgid "Convert to:"
-msgstr ""
+msgstr "변경후 유형:"
 
 #: cps/templates/book_edit.html:45
 msgid "Convert book"
-msgstr ""
+msgstr "책 변경"
 
 #: cps/templates/book_edit.html:55 cps/templates/search_form.html:8
 msgid "Book Title"
-msgstr "Назва книги"
+msgstr "책 제목"
 
 #: cps/templates/book_edit.html:62 cps/templates/book_edit.html:270
 #: cps/templates/book_edit.html:288 cps/templates/search_form.html:12
 msgid "Author"
-msgstr "Автор"
+msgstr "저자"
 
 #: cps/templates/book_edit.html:67 cps/templates/book_edit.html:275
 #: cps/templates/book_edit.html:290 cps/templates/search_form.html:153
 msgid "Description"
-msgstr "Опис"
+msgstr "책 소개"
 
 #: cps/templates/book_edit.html:72
 msgid "Identifiers"
-msgstr ""
+msgstr "식별자"
 
 #: cps/templates/book_edit.html:76 cps/templates/book_edit.html:299
 msgid "Identifier Type"
-msgstr ""
+msgstr "식별자 유형"
 
 #: cps/templates/book_edit.html:77 cps/templates/book_edit.html:300
 msgid "Identifier Value"
-msgstr ""
+msgstr "식별자 값"
 
 #: cps/templates/book_edit.html:78 cps/templates/book_edit.html:301
 #: cps/templates/user_table.html:24
 msgid "Remove"
-msgstr ""
+msgstr "삭제"
 
 #: cps/templates/book_edit.html:82
 msgid "Add Identifier"
-msgstr ""
+msgstr "식별자 추가"
 
 #: cps/templates/book_edit.html:86 cps/templates/search_form.html:51
 msgid "Tags"
-msgstr "Теги"
+msgstr "태그"
 
 #: cps/templates/book_edit.html:94
 msgid "Series ID"
-msgstr ""
+msgstr "시리즈 ID"
 
 #: cps/templates/book_edit.html:98
 msgid "Rating"
-msgstr "Рейтинг"
+msgstr "평점"
 
 #: cps/templates/book_edit.html:103
 msgid "Fetch Cover from URL (JPEG - Image will be downloaded and stored in database)"
-msgstr ""
+msgstr "URL로 표지 추가(JPEG - 이미지를 다운로드 하여 DB에 저장합니다)"
 
 #: cps/templates/book_edit.html:107
 msgid "Upload Cover from Local Disk"
-msgstr ""
+msgstr "로컬 디스크에서 표지 업로드"
 
 #: cps/templates/book_edit.html:112
 msgid "Published Date"
-msgstr "Опубліковано"
+msgstr "출간일"
 
 #: cps/templates/book_edit.html:121 cps/templates/book_edit.html:272
 #: cps/templates/book_edit.html:289 cps/templates/detail.html:164
 #: cps/templates/search_form.html:16
 msgid "Publisher"
-msgstr "Видавець"
+msgstr "출판사"
 
 #: cps/templates/book_edit.html:125 cps/templates/detail.html:131
 #: cps/templates/user_edit.html:33
 msgid "Language"
-msgstr "Мова"
+msgstr "언어"
 
 #: cps/templates/book_edit.html:135 cps/templates/search_form.html:45
 #: cps/templates/search_form.html:164
 msgid "Yes"
-msgstr "Так"
+msgstr "예"
 
 #: cps/templates/book_edit.html:136 cps/templates/search_form.html:46
 #: cps/templates/search_form.html:165
 msgid "No"
-msgstr "Ні"
+msgstr "아니오"
 
 #: cps/templates/book_edit.html:200
 msgid "Upload Format"
-msgstr "Формат завантаження"
+msgstr "업로드 유형"
 
 #: cps/templates/book_edit.html:208
 msgid "View Book on Save"
-msgstr "переглянути книгу після редагування"
+msgstr "저장 후 책 보기"
 
 #: cps/templates/book_edit.html:211 cps/templates/book_edit.html:229
 msgid "Fetch Metadata"
-msgstr "Отримати метадані"
+msgstr "메타정보 가져오기"
 
 #: cps/templates/book_edit.html:212 cps/templates/config_db.html:53
 #: cps/templates/config_edit.html:358 cps/templates/config_view_edit.html:172
 #: cps/templates/email_edit.html:65 cps/templates/shelf_edit.html:25
 #: cps/templates/shelf_order.html:41 cps/templates/user_edit.html:142
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 #: cps/templates/book_edit.html:232
 msgid "Keyword"
-msgstr "Ключове слово"
+msgstr "키워드"
 
 #: cps/templates/book_edit.html:233
 #, fuzzy
 msgid "Search keyword"
-msgstr " Пошук по ключовому слову"
+msgstr "키워드 검색"
 
 #: cps/templates/book_edit.html:239
 msgid "Click the cover to load metadata to the form"
