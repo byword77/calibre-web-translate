@@ -690,130 +690,130 @@ msgstr "'%(src) s' 경로의 파일 이름을 '%(dest) s'(으)로 변경하지 �
 #: cps/helper.py:428 cps/helper.py:438 cps/helper.py:446
 #, python-format
 msgid "File %(file)s not found on Google Drive"
-msgstr ""
+msgstr "Google 드라이브에서 %(file)s 파일을 찾을 수 없습니다."
 
 #: cps/helper.py:467
 #, python-format
 msgid "Book path %(path)s not found on Google Drive"
-msgstr ""
+msgstr "Google 드라이브에서 책 경로 %(path)을(를) 찾을 수 없습니다."
 
 #: cps/helper.py:507 cps/web.py:1658
 msgid "Found an existing account for this e-mail address"
-msgstr ""
+msgstr "등록되어 있는 이메일 주소입니다."
 
 #: cps/helper.py:515
 msgid "This username is already taken"
-msgstr ""
+msgstr "등록되어 있는 username입니다."
 
 #: cps/helper.py:525
 msgid "Invalid e-mail address format"
-msgstr ""
+msgstr "이메일 주소 형식이 잘못되었습니다."
 
 #: cps/helper.py:598
 msgid "Error Downloading Cover"
-msgstr ""
+msgstr "표지 다운로드 중 오류 발생"
 
 #: cps/helper.py:601
 msgid "Cover Format Error"
-msgstr ""
+msgstr "표지 형식 오류"
 
 #: cps/helper.py:611
 msgid "Failed to create path for cover"
-msgstr ""
+msgstr "표지 경로 생성 실패"
 
 #: cps/helper.py:627
 msgid "Cover-file is not a valid image file, or could not be stored"
-msgstr ""
+msgstr "표지 파일이 유효한 이미지 파일이 아니거나 저장할 수 없습니다."
 
 #: cps/helper.py:638
 msgid "Only jpg/jpeg/png/webp/bmp files are supported as coverfile"
-msgstr ""
+msgstr "jpg/jpeg/png/webp/bmp 파일만 표지 파일로 지원됩니다."
 
 #: cps/helper.py:651
 msgid "Invalid cover file content"
-msgstr ""
+msgstr "잘못된 표지 파일 콘텐츠"
 
 #: cps/helper.py:655
 msgid "Only jpg/jpeg files are supported as coverfile"
-msgstr ""
+msgstr "jpg/jpeg 파일만 표지 파일로 지원됩니다."
 
 #: cps/helper.py:707
 msgid "Unrar binary file not found"
-msgstr ""
+msgstr "Unrar 바이너리 파일을 찾을 수 없습니다."
 
 #: cps/helper.py:718
 msgid "Error excecuting UnRar"
-msgstr ""
+msgstr "UnRar 실행 오류"
 
 #: cps/helper.py:766
 msgid "Waiting"
-msgstr ""
+msgstr "대기중"
 
 #: cps/helper.py:768
 msgid "Failed"
-msgstr ""
+msgstr "실패"
 
 #: cps/helper.py:770
 msgid "Started"
-msgstr ""
+msgstr "시작됨"
 
 #: cps/helper.py:772
 msgid "Finished"
-msgstr ""
+msgstr "종료"
 
 #: cps/helper.py:774
 msgid "Unknown Status"
-msgstr ""
+msgstr "알 수 없는 상태"
 
 #: cps/kobo_auth.py:131
 msgid "PLease access calibre-web from non localhost to get valid api_endpoint for kobo device"
-msgstr ""
+msgstr "kobo 장치에 대한 유효한 api_endpoint를 얻으려면 로컬 호스트가 아닌 곳에서 calibre-web에 액세스하십시오."
 
 #: cps/kobo_auth.py:134 cps/kobo_auth.py:162
 msgid "Kobo Setup"
-msgstr ""
+msgstr "Kobo 설정"
 
 #: cps/oauth_bb.py:77
 #, python-format
 msgid "Register with %(provider)s"
-msgstr ""
+msgstr "%(provider)s에 등록"
 
 #: cps/oauth_bb.py:138 cps/remotelogin.py:133 cps/web.py:1534
 #, python-format
 msgid "you are now logged in as: '%(nickname)s'"
-msgstr "Ви увійшли як користувач: '%(nickname)s'"
+msgstr "다음 사용자로 로그인했습니다: '%(nickname)s'"
 
 #: cps/oauth_bb.py:148
 #, python-format
 msgid "Link to %(oauth)s Succeeded"
-msgstr ""
+msgstr "%(oauth)s에 성공적으로 연결됨"
 
 #: cps/oauth_bb.py:155
 msgid "Login failed, No User Linked With OAuth Account"
-msgstr ""
+msgstr "로그인 실패, OAuth 계정과 연결된 사용자 없음"
 
 #: cps/oauth_bb.py:197
 #, python-format
 msgid "Unlink to %(oauth)s Succeeded"
-msgstr ""
+msgstr "%(oauth)s에 연결 해제 성공"
 
 #: cps/oauth_bb.py:202
 #, python-format
 msgid "Unlink to %(oauth)s Failed"
-msgstr ""
+msgstr "%(oauth)s에 연결 해제 실패"
 
 #: cps/oauth_bb.py:205
 #, python-format
 msgid "Not Linked to %(oauth)s"
-msgstr ""
+msgstr "%(oauth)s에 연결되지 않음"
 
 #: cps/oauth_bb.py:261
 msgid "Failed to log in with GitHub."
-msgstr ""
+msgstr "GitHub에 로그인하지 못했습니다."
 
 #: cps/oauth_bb.py:267
 msgid "Failed to fetch user info from GitHub."
-msgstr ""
+msgstr "GitHub에서 사용자 정보를 가져오지 못했습니다."
 
 #: cps/oauth_bb.py:279
 msgid "Failed to log in with Google."
@@ -846,276 +846,276 @@ msgstr ""
 #: cps/remotelogin.py:65 cps/templates/layout.html:84
 #: cps/templates/login.html:4 cps/templates/login.html:21 cps/web.py:1583
 msgid "Login"
-msgstr "Ім'я користувача"
+msgstr "로그인"
 
 #: cps/remotelogin.py:77 cps/remotelogin.py:111
 msgid "Token not found"
-msgstr "Токен не знайдено"
+msgstr "토큰을 찾을 수 없습니다."
 
 #: cps/remotelogin.py:86 cps/remotelogin.py:119
 msgid "Token has expired"
-msgstr "Час дії токено вичерпано"
+msgstr "토큰이 만료되었습니다."
 
 #: cps/remotelogin.py:95
 msgid "Success! Please return to your device"
-msgstr "Вдалося! Будь-ласка, поверніться до вашого пристрою"
+msgstr "성공! 기기로 돌아가주세요."
 
 #: cps/render_template.py:39 cps/web.py:416
 msgid "Books"
-msgstr ""
+msgstr "책"
 
 #: cps/render_template.py:41
 msgid "Show recent books"
-msgstr "Показувати останні книги"
+msgstr "최근 책 보기"
 
 #: cps/render_template.py:42 cps/templates/index.xml:25
 msgid "Hot Books"
-msgstr "Популярні книги"
+msgstr "주목받는 책"
 
 #: cps/render_template.py:44
 msgid "Show Hot Books"
-msgstr "Показувати популярні книги"
+msgstr "주목받는 책 보기"
 
 #: cps/render_template.py:46 cps/render_template.py:51
 msgid "Downloaded Books"
-msgstr ""
+msgstr "다운로드된 책"
 
 #: cps/render_template.py:48 cps/render_template.py:53
 #: cps/templates/user_table.html:167
 msgid "Show Downloaded Books"
-msgstr ""
+msgstr "다운로드된 책 보기"
 
 #: cps/render_template.py:56 cps/templates/index.xml:32 cps/web.py:430
 msgid "Top Rated Books"
-msgstr "Книги з найкращим рейтингом"
+msgstr "평점이 높은 책"
 
 #: cps/render_template.py:58 cps/templates/user_table.html:161
 msgid "Show Top Rated Books"
-msgstr "Показувати книги з найвищим рейтингом"
+msgstr "평점이 높은 책 보기"
 
 #: cps/render_template.py:59 cps/templates/index.xml:54
 #: cps/templates/index.xml:58 cps/web.py:676
 msgid "Read Books"
-msgstr "Прочитані книги"
+msgstr "읽은 책"
 
 #: cps/render_template.py:61
 msgid "Show read and unread"
-msgstr "Показувати прочитані та непрочитані книги"
+msgstr "읽은 책과 읽지 않은 책 보기"
 
 #: cps/render_template.py:63 cps/templates/index.xml:61
 #: cps/templates/index.xml:65 cps/web.py:679
 msgid "Unread Books"
-msgstr "Непрочитані книги"
+msgstr "읽지 않은 책"
 
 #: cps/render_template.py:65
 msgid "Show unread"
-msgstr ""
+msgstr "읽지 않은 책 보기"
 
 #: cps/render_template.py:66
 msgid "Discover"
-msgstr "Огляд"
+msgstr "발견"
 
 #: cps/render_template.py:68 cps/templates/index.xml:50
 #: cps/templates/user_table.html:162
 msgid "Show Random Books"
-msgstr "Показувати випадкові книги"
+msgstr "무작위 추천"
 
 #: cps/render_template.py:69 cps/templates/book_table.html:67
 #: cps/templates/index.xml:83 cps/web.py:1041
 msgid "Categories"
-msgstr "Категорії"
+msgstr "카테고리"
 
 #: cps/render_template.py:71 cps/templates/user_table.html:158
 msgid "Show category selection"
-msgstr "Показувати вибір категорії"
+msgstr "카테고리별 보기"
 
 #: cps/render_template.py:72 cps/templates/book_edit.html:90
 #: cps/templates/book_table.html:68 cps/templates/index.xml:90
 #: cps/templates/search_form.html:69 cps/web.py:948 cps/web.py:959
 msgid "Series"
-msgstr "Серії"
+msgstr "시리즈"
 
 #: cps/render_template.py:74 cps/templates/user_table.html:157
 msgid "Show series selection"
-msgstr "Показувати вибір серії"
+msgstr "시리즈별 보기"
 
 #: cps/render_template.py:75 cps/templates/book_table.html:66
 #: cps/templates/index.xml:69
 msgid "Authors"
-msgstr "Автори"
+msgstr "저자"
 
 #: cps/render_template.py:77 cps/templates/user_table.html:160
 msgid "Show author selection"
-msgstr "Показувати вибір автора"
+msgstr "저자별 보기"
 
 #: cps/render_template.py:79 cps/templates/book_table.html:72
 #: cps/templates/index.xml:76 cps/web.py:925
 msgid "Publishers"
-msgstr ""
+msgstr "출판사"
 
 #: cps/render_template.py:81 cps/templates/user_table.html:163
 msgid "Show publisher selection"
-msgstr ""
+msgstr "출판사별 보기"
 
 #: cps/render_template.py:82 cps/templates/book_table.html:70
 #: cps/templates/index.xml:97 cps/templates/search_form.html:107
 #: cps/web.py:1018
 msgid "Languages"
-msgstr "Мови"
+msgstr "언어"
 
 #: cps/render_template.py:85 cps/templates/user_table.html:155
 msgid "Show language selection"
-msgstr "Показувати вибір мови"
+msgstr "언어별 보기"
 
 #: cps/render_template.py:86 cps/templates/index.xml:104
 msgid "Ratings"
-msgstr ""
+msgstr "평점"
 
 #: cps/render_template.py:88 cps/templates/user_table.html:164
 msgid "Show ratings selection"
-msgstr ""
+msgstr "평점별 보기"
 
 #: cps/render_template.py:89 cps/templates/index.xml:112
 msgid "File formats"
-msgstr ""
+msgstr "파일 유형"
 
 #: cps/render_template.py:91 cps/templates/user_table.html:165
 msgid "Show file formats selection"
-msgstr ""
+msgstr "파일 유형별 보기"
 
 #: cps/render_template.py:93 cps/web.py:703
 msgid "Archived Books"
-msgstr ""
+msgstr "보관된 책"
 
 #: cps/render_template.py:95 cps/templates/user_table.html:166
 msgid "Show archived books"
-msgstr ""
+msgstr "보관된 책 보기"
 
 #: cps/render_template.py:97 cps/web.py:780
 msgid "Books List"
-msgstr ""
+msgstr "책 목록"
 
 #: cps/render_template.py:99 cps/templates/user_table.html:168
 msgid "Show Books List"
-msgstr ""
+msgstr "책 목록 보기"
 
 #: cps/shelf.py:67 cps/shelf.py:121
 msgid "Invalid shelf specified"
-msgstr ""
+msgstr "잘못된 책장 지정"
 
 #: cps/shelf.py:73
 #, fuzzy
 msgid "Sorry you are not allowed to add a book to that shelf"
-msgstr "Вибачте, але у вас немає дозволу для видалення книги з цієї полиці"
+msgstr "죄송합니다. 해당 책장에 책을 추가할 권한이 없습니다."
 
 #: cps/shelf.py:82
 #, python-format
 msgid "Book is already part of the shelf: %(shelfname)s"
-msgstr ""
+msgstr "책이 이미 책장에 등록됨: %(shelfname)s"
 
 #: cps/shelf.py:107
 #, python-format
 msgid "Book has been added to shelf: %(sname)s"
-msgstr "Книга додана на книжкову полицю: %(sname)s"
+msgstr "책장에 책이 등록됨: %(sname)s"
 
 #: cps/shelf.py:126
 msgid "You are not allowed to add a book to the shelf"
-msgstr ""
+msgstr "책장에 책을 추가할 권한이 없습니다."
 
 #: cps/shelf.py:144
 #, python-format
 msgid "Books are already part of the shelf: %(name)s"
-msgstr ""
+msgstr "책장에 이미 책이 등록됨:  %(name)s"
 
 #: cps/shelf.py:156
 #, python-format
 msgid "Books have been added to shelf: %(sname)s"
-msgstr ""
+msgstr "책이 책장에 등록됨: %(sname)s"
 
 #: cps/shelf.py:163
 #, python-format
 msgid "Could not add books to shelf: %(sname)s"
-msgstr ""
+msgstr "책장에 책을 추가할 수 없음: %(sname)s"
 
 #: cps/shelf.py:209
 #, python-format
 msgid "Book has been removed from shelf: %(sname)s"
-msgstr "Книга видалена з книжкової полиці: %(sname)s"
+msgstr "책이 책장에서 삭제됨: %(sname)s"
 
 #: cps/shelf.py:218
 msgid "Sorry you are not allowed to remove a book from this shelf"
-msgstr ""
+msgstr "죄송합니다. 이 서가에서 책을 삭제할 권한이 없습니다."
 
 #: cps/shelf.py:228 cps/templates/layout.html:140
 msgid "Create a Shelf"
-msgstr "створити книжкову полицю"
+msgstr "책장 추가"
 
 #: cps/shelf.py:237
 #, fuzzy
 msgid "Sorry you are not allowed to edit this shelf"
-msgstr "Вибачте, але у вас немає дозволу для видалення книги з цієї полиці"
+msgstr "죄송합니다. 이 책장을 편집할 권한이 없습니다."
 
 #: cps/shelf.py:239
 msgid "Edit a shelf"
-msgstr "Змінити книжкову полицю"
+msgstr "책장 편집"
 
 #: cps/shelf.py:249
 msgid "Sorry you are not allowed to create a public shelf"
-msgstr ""
+msgstr "죄송합니다. 이 공개 책장을 만들 권한이 없습니다."
 
 #: cps/shelf.py:261
 #, python-format
 msgid "Shelf %(title)s created"
-msgstr "Створена книжкова полиця %(title)s"
+msgstr "%(title)s 책장이 추가됨"
 
 #: cps/shelf.py:264
 #, python-format
 msgid "Shelf %(title)s changed"
-msgstr "Книжкова полиця %(title)s змінена"
+msgstr "%(title)s 책장이 변경됨"
 
 #: cps/shelf.py:278
 msgid "There was an error"
-msgstr "Сталась помилка"
+msgstr "오류가 발생하였습니다."
 
 #: cps/shelf.py:300
 #, python-format
 msgid "A public shelf with the name '%(title)s' already exists."
-msgstr ""
+msgstr "이름이 '%(title)s'인 공개 책장이 이미 있습니다."
 
 #: cps/shelf.py:311
 #, python-format
 msgid "A private shelf with the name '%(title)s' already exists."
-msgstr ""
+msgstr "이름이 '%(title)s'인 개인 책장이 이미 있습니다."
 
 #: cps/shelf.py:380
 #, python-format
 msgid "Change order of Shelf: '%(name)s'"
-msgstr "Змінити розташування книжкової полиці '%(name)s'"
+msgstr "책장 순서 변경: '%(name)s'"
 
 #: cps/shelf.py:450
 #, python-format
 msgid "Shelf: '%(name)s'"
-msgstr "Книжкова полиця: '%(name)s'"
+msgstr "책장: '%(name)s'"
 
 #: cps/shelf.py:454
 msgid "Error opening shelf. Shelf does not exist or is not accessible"
-msgstr "Помилка при відкриванні полиці. Полиця не існує або до неї відсутній доступ"
+msgstr "책장을 여는 동안 오류가 발생했습니다. 책장이 존재하지 않거나 접근할 수 없습니다"
 
 #: cps/updater.py:403 cps/updater.py:414 cps/updater.py:514 cps/updater.py:529
 msgid "Unexpected data while reading update information"
-msgstr ""
+msgstr "업데이트 정보를 읽는 동안 예기치 않은 데이터"
 
 #: cps/updater.py:410 cps/updater.py:521
 msgid "No update available. You already have the latest version installed"
-msgstr ""
+msgstr "업데이트가 없습니다. 이미 최신 버전이 설치되어 있습니다."
 
 #: cps/updater.py:428
 msgid "A new update is available. Click on the button below to update to the latest version."
-msgstr ""
+msgstr "새로운 업데이트가 있습니다. 아래 버튼을 클릭하여 최신 버전으로 업데이트하십시오."
 
 #: cps/updater.py:446
 msgid "Could not fetch update information"
-msgstr ""
+msgstr "업데이트 정보를 가져올 수 없습니다"
 
 #: cps/updater.py:456
 msgid "Click on the button below to update to the latest stable version."
@@ -1124,15 +1124,15 @@ msgstr ""
 #: cps/updater.py:465 cps/updater.py:479 cps/updater.py:490
 #, python-format
 msgid "A new update is available. Click on the button below to update to version: %(version)s"
-msgstr ""
+msgstr "최신 안정 버전으로 업데이트하려면 아래 버튼을 클릭하세요."
 
 #: cps/updater.py:507
 msgid "No release information available"
-msgstr ""
+msgstr "출시 정보가 없습니다"
 
 #: cps/templates/index.html:5 cps/web.py:440
 msgid "Discover (Random Books)"
-msgstr "Огляд (випадкові книги)"
+msgstr "발견(무작위 도서)"
 
 #: cps/web.py:471
 msgid "Hot Books (Most Downloaded)"
