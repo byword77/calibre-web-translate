@@ -1,5 +1,5 @@
 # Korean translation for Calibre-web
-# Copyright (C) 2018 ABIS Team
+# Copyright (C) 2022 EPUBGUIDE.NET
 # This file is distributed under the same license as the Calibre-web project
 # First korean translation by 내맘대로의 EPUBGUIDE.NET
 msgid ""
