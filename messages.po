@@ -2632,273 +2632,273 @@ msgstr ""
 
 #: cps/templates/logviewer.html:12
 msgid "Show Access Log: "
-msgstr ""
+msgstr "스트림 출력, 표시할 수 없음"
 
 #: cps/templates/logviewer.html:18
 msgid "Download Calibre-Web Log"
-msgstr ""
+msgstr "Calibre-Web 로그 다운로드"
 
 #: cps/templates/logviewer.html:21
 msgid "Download Access Log"
-msgstr ""
+msgstr "Access Log 다운로드"
 
 #: cps/templates/modal_dialogs.html:6
 msgid "Select Allowed/Denied Tags"
-msgstr ""
+msgstr "허용/거부 태그 선택"
 
 #: cps/templates/modal_dialogs.html:7
 msgid "Select Allowed/Denied Custom Column Values"
-msgstr ""
+msgstr "허용/거부 사용자 정의 열 값 선택"
 
 #: cps/templates/modal_dialogs.html:8
 msgid "Select Allowed/Denied Tags of User"
-msgstr ""
+msgstr "사용자의 허용/거부 태그 선택"
 
 #: cps/templates/modal_dialogs.html:9
 msgid "Select Allowed/Denied Custom Column Values of User"
-msgstr ""
+msgstr "사용자의 사용자 정의 열 값 허용/거부 선택"
 
 #: cps/templates/modal_dialogs.html:15
 msgid "Enter Tag"
-msgstr ""
+msgstr "태그 입력"
 
 #: cps/templates/modal_dialogs.html:24
 msgid "Add View Restriction"
-msgstr ""
+msgstr "보기 제한 추가"
 
 #: cps/templates/modal_dialogs.html:50
 msgid "This book format will be permanently erased from database"
-msgstr ""
+msgstr "이 책 형식은 데이터베이스에서 영구적으로 삭제됩니다."
 
 #: cps/templates/modal_dialogs.html:51
 msgid "This book will be permanently erased from database"
-msgstr "Книга буде видалена з БД Calibre"
+msgstr "이 책은 데이터베이스에서 영구적으로 삭제됩니다."
 
 #: cps/templates/modal_dialogs.html:52
 msgid "and hard disk"
-msgstr "і з диску"
+msgstr "그리고 하드디스크"
 
 #: cps/templates/modal_dialogs.html:56
 msgid "Important Kobo Note: deleted books will remain on any paired Kobo device."
-msgstr ""
+msgstr "Kobo 참고 사항: 삭제된 책은 페어링된 모든 Kobo 기기에 남아 있습니다."
 
 #: cps/templates/modal_dialogs.html:57
 msgid "Books must first be archived and the device synced before a book can safely be deleted."
-msgstr ""
+msgstr "책을 안전하게 삭제하려면 먼저 책을 보관하고 기기를 동기화해야 합니다."
 
 #: cps/templates/modal_dialogs.html:76
 msgid "Choose File Location"
-msgstr ""
+msgstr "파일 위치 선택"
 
 #: cps/templates/modal_dialogs.html:82
 msgid "type"
-msgstr ""
+msgstr "유형"
 
 #: cps/templates/modal_dialogs.html:83
 msgid "name"
-msgstr ""
+msgstr "이름"
 
 #: cps/templates/modal_dialogs.html:84
 msgid "size"
-msgstr ""
+msgstr "크기"
 
 #: cps/templates/modal_dialogs.html:90
 msgid "Parent Directory"
-msgstr ""
+msgstr "상위 폴더"
 
 #: cps/templates/modal_dialogs.html:98
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 #: cps/templates/modal_dialogs.html:134
 #, fuzzy
 msgid "Ok"
-msgstr "Книга"
+msgstr "Ok"
 
 #: cps/templates/osd.xml:5
 msgid "Calibre-Web eBook Catalog"
-msgstr ""
+msgstr "Calibre-Web 책 목록"
 
 #: cps/templates/read.html:6
 msgid "epub Reader"
-msgstr ""
+msgstr "EPUB 리더"
 
 #: cps/templates/read.html:74
 msgid "Reflow text when sidebars are open."
-msgstr "Переформатувати текст, коли відкриті бічні панелі."
+msgstr "사이드바가 열려 있을 때 텍스트 다시 배열."
 
 #: cps/templates/readcbr.html:7
 msgid "Comic Reader"
-msgstr ""
+msgstr "코믹 리더"
 
 #: cps/templates/readcbr.html:89
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "키보드 단축키"
 
 #: cps/templates/readcbr.html:92
 msgid "Previous Page"
-msgstr ""
+msgstr "이전 페이지"
 
 #: cps/templates/readcbr.html:93 cps/templates/readcbr.html:162
 msgid "Next Page"
-msgstr ""
+msgstr "다음 페이지"
 
 #: cps/templates/readcbr.html:94
 msgid "Scale to Best"
-msgstr ""
+msgstr "최적 크기"
 
 #: cps/templates/readcbr.html:95
 msgid "Scale to Width"
-msgstr ""
+msgstr "폭 조절"
 
 #: cps/templates/readcbr.html:96
 msgid "Scale to Height"
-msgstr ""
+msgstr "높이 조절"
 
 #: cps/templates/readcbr.html:97
 msgid "Scale to Native"
-msgstr ""
+msgstr "기본 크기"
 
 #: cps/templates/readcbr.html:98
 msgid "Rotate Right"
-msgstr ""
+msgstr "오른쪽으로 회전"
 
 #: cps/templates/readcbr.html:99
 msgid "Rotate Left"
-msgstr ""
+msgstr "왼쪽으로 회전"
 
 #: cps/templates/readcbr.html:100
 msgid "Flip Image"
-msgstr ""
+msgstr "이미지 뒤집기"
 
 #: cps/templates/readcbr.html:116
 msgid "Light"
-msgstr ""
+msgstr "밝게"
 
 #: cps/templates/readcbr.html:117
 msgid "Dark"
-msgstr ""
+msgstr "어둡게"
 
 #: cps/templates/readcbr.html:122
 msgid "Scale"
-msgstr ""
+msgstr "크기"
 
 #: cps/templates/readcbr.html:125
 msgid "Best"
-msgstr ""
+msgstr "최적"
 
 #: cps/templates/readcbr.html:126
 msgid "Width"
-msgstr ""
+msgstr "폭"
 
 #: cps/templates/readcbr.html:127
 msgid "Height"
-msgstr ""
+msgstr "높이"
 
 #: cps/templates/readcbr.html:128
 msgid "Native"
-msgstr ""
+msgstr "기본"
 
 #: cps/templates/readcbr.html:133
 msgid "Rotate"
-msgstr ""
+msgstr "회전"
 
 #: cps/templates/readcbr.html:144
 msgid "Flip"
-msgstr ""
+msgstr "뒤집기"
 
 #: cps/templates/readcbr.html:147
 msgid "Horizontal"
-msgstr ""
+msgstr "수평"
 
 #: cps/templates/readcbr.html:148
 msgid "Vertical"
-msgstr ""
+msgstr "수직"
 
 #: cps/templates/readcbr.html:153
 msgid "Direction"
-msgstr ""
+msgstr "방향"
 
 #: cps/templates/readcbr.html:156
 msgid "Left to Right"
-msgstr ""
+msgstr "왼쪽에서 오른쪽"
 
 #: cps/templates/readcbr.html:157
 msgid "Right to Left"
-msgstr ""
+msgstr "오른쪽에서 왼쪽"
 
 #: cps/templates/readcbr.html:165
 msgid "Reset to Top"
-msgstr ""
+msgstr "맨 위로 재설정"
 
 #: cps/templates/readcbr.html:166
 msgid "Remember Position"
-msgstr ""
+msgstr "위치 기억"
 
 #: cps/templates/readcbr.html:171
 msgid "Scrollbar"
-msgstr ""
+msgstr "스크롤바"
 
 #: cps/templates/readcbr.html:174
 msgid "Show"
-msgstr ""
+msgstr "보기"
 
 #: cps/templates/readcbr.html:175
 msgid "Hide"
-msgstr ""
+msgstr "숨기기"
 
 #: cps/templates/readdjvu.html:5
 msgid "DJVU Reader"
-msgstr ""
+msgstr "DJVU 리더"
 
 #: cps/templates/readpdf.html:29
 msgid "PDF Reader"
-msgstr ""
+msgstr "PDF 리더"
 
 #: cps/templates/readtxt.html:6
 #, fuzzy
 msgid "txt Reader"
-msgstr "Засіб для читання txt-файлів"
+msgstr "텍스트 리더"
 
 #: cps/templates/register.html:4
 msgid "Register New Account"
-msgstr "Зареєструвати нового користувача"
+msgstr "새 계정 등록"
 
 #: cps/templates/register.html:10
 msgid "Choose a username"
-msgstr "Виберіть ім'я користувача"
+msgstr "사용자 이름 선택"
 
 #: cps/templates/register.html:15
 msgid "Your email address"
-msgstr "Ваш email-адрес"
+msgstr "이메일 주소"
 
 #: cps/templates/remote_login.html:5
 msgid "Magic Link - Authorise New Device"
-msgstr ""
+msgstr "Magic Link - 새 장치 승인"
 
 #: cps/templates/remote_login.html:7
 msgid "On another device, login and visit:"
-msgstr ""
+msgstr "다른 기기에서 로그인하고 방문하세요."
 
 #: cps/templates/remote_login.html:11
 msgid "Once verified, you will automatically be logged in on this device."
-msgstr "Після цього ви автоматично ввійдете в систему на цьому пристрої."
+msgstr "승인이 되면 이 장치에 자동으로 로그인됩니다."
 
 #: cps/templates/remote_login.html:14
 msgid "This verification link will expire in 10 minutes."
-msgstr ""
+msgstr "이 확인 링크는 10분 후에 만료됩니다."
 
 #: cps/templates/search.html:5
 msgid "No Results Found"
-msgstr ""
+msgstr "결과가 없습니다."
 
 #: cps/templates/search.html:6
 msgid "Search Term:"
-msgstr ""
+msgstr "검색어: "
 
 #: cps/templates/search.html:8
 msgid "Results for:"
-msgstr "Результати для:"
+msgstr "결과:"
 
 #: cps/templates/search_form.html:21
 msgid "Published Date From"
