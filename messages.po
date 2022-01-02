@@ -2394,237 +2394,237 @@ msgstr "SSL/TLS"
 
 #: cps/templates/email_edit.html:51
 msgid "SMTP Password"
-msgstr "Пароль SMTP"
+msgstr "SMTP 비밀번호"
 
 #: cps/templates/email_edit.html:58
 msgid "Attachment Size Limit"
-msgstr ""
+msgstr "첨부 파일 크기 제한"
 
 #: cps/templates/email_edit.html:66
 msgid "Save and Send Test E-mail"
-msgstr "Зберегти налаштування і відправити тестове повідомлення"
+msgstr "저장 후 테스트 이메일 보내기"
 
 #: cps/templates/email_edit.html:70 cps/templates/layout.html:29
 #: cps/templates/shelf_order.html:42 cps/templates/user_table.html:174
 msgid "Back"
-msgstr "Назад"
+msgstr "뒤로"
 
 #: cps/templates/email_edit.html:74
 msgid "Allowed Domains (Whitelist)"
-msgstr ""
+msgstr "허용하는 도메인(화이트 리스트)"
 
 #: cps/templates/email_edit.html:78 cps/templates/email_edit.html:105
 msgid "Add Domain"
-msgstr ""
+msgstr "도메인 추가"
 
 #: cps/templates/email_edit.html:81 cps/templates/email_edit.html:108
 #: cps/templates/user_table.html:27
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 #: cps/templates/email_edit.html:86 cps/templates/email_edit.html:96
 msgid "Enter domainname"
-msgstr ""
+msgstr "도메인 입력"
 
 #: cps/templates/email_edit.html:92
 msgid "Denied Domains (Blacklist)"
-msgstr ""
+msgstr "거부 도메인(블랙리스트)"
 
 #: cps/templates/feed.xml:21 cps/templates/layout.html:170
 msgid "Next"
-msgstr "Далі"
+msgstr "다음"
 
 #: cps/templates/generate_kobo_auth_url.html:5
 msgid "Open the .kobo/Kobo eReader.conf file in a text editor and add (or edit):"
-msgstr ""
+msgstr "텍스트 편집기에서 .kobo/Kobo eReader.conf 파일을 열고 다음을 추가(또는 편집)합니다."
 
 #: cps/templates/http_error.html:31
 msgid "Calibre-Web Instance is unconfigured, please contact your administrator"
-msgstr ""
+msgstr "Calibre-Web Instance가 구성되지 않았습니다. 관리자에게 문의하십시오."
 
 #: cps/templates/http_error.html:41
 msgid "Create Issue"
-msgstr ""
+msgstr "이슈 생성"
 
 #: cps/templates/http_error.html:48
 msgid "Return to Home"
-msgstr ""
+msgstr "홈으로"
 
 #: cps/templates/http_error.html:50
 msgid "Logout User"
-msgstr ""
+msgstr "로그아웃"
 
 #: cps/templates/index.html:69
 msgid "Sort ascending according to download count"
-msgstr ""
+msgstr "다운로드 횟수에 따라 오름차순 정렬"
 
 #: cps/templates/index.html:70
 msgid "Sort descending according to download count"
-msgstr ""
+msgstr "다운로드 횟수에 따라 내림차순 정렬"
 
 #: cps/templates/index.html:76 cps/templates/search.html:33
 #: cps/templates/shelf.html:21
 msgid "Sort authors in alphabetical order"
-msgstr ""
+msgstr "저자를 가나다순(알파벳순)으로 정렬"
 
 #: cps/templates/index.html:77 cps/templates/search.html:34
 #: cps/templates/shelf.html:22
 msgid "Sort authors in reverse alphabetical order"
-msgstr ""
+msgstr "저자를 가나다(알파벳) 역순으로 정렬"
 
 #: cps/templates/index.html:81
 msgid "Sort ascending according to series index"
-msgstr ""
+msgstr "시리즈 인덱스에 따라 오름차순 정렬"
 
 #: cps/templates/index.html:82
 msgid "Sort descending according to series index"
-msgstr ""
+msgstr "시리즈 인덱스에 따라 내림차순 정렬"
 
 #: cps/templates/index.xml:6
 msgid "Start"
-msgstr "Старт"
+msgstr "시작"
 
 #: cps/templates/index.xml:18
 msgid "Alphabetical Books"
-msgstr ""
+msgstr "가나다(알파벳) 순"
 
 #: cps/templates/index.xml:22
 msgid "Books sorted alphabetically"
-msgstr ""
+msgstr "가나다(알파벳)순으로 정렬한 책"
 
 #: cps/templates/index.xml:29
 msgid "Popular publications from this catalog based on Downloads."
-msgstr "Популярні книги в цьому каталозі, на основі кількості завантажень"
+msgstr "다운로드 기준 인기 도서."
 
 #: cps/templates/index.xml:36
 msgid "Popular publications from this catalog based on Rating."
-msgstr "Популярні книги з цього каталогу на основі рейтингу"
+msgstr "별점 기준 인기 도서"
 
 #: cps/templates/index.xml:39
 msgid "Recently added Books"
-msgstr ""
+msgstr "최근 추가된 도서"
 
 #: cps/templates/index.xml:43
 msgid "The latest Books"
-msgstr "Останні книги"
+msgstr "최신 도서"
 
 #: cps/templates/index.xml:46
 msgid "Random Books"
-msgstr "Випадковий список книг"
+msgstr "랜덤 정렬"
 
 #: cps/templates/index.xml:73
 msgid "Books ordered by Author"
-msgstr "Книги відсортовані за автором"
+msgstr "저자별 정렬"
 
 #: cps/templates/index.xml:80
 msgid "Books ordered by publisher"
-msgstr ""
+msgstr "출판사별 정렬"
 
 #: cps/templates/index.xml:87
 msgid "Books ordered by category"
-msgstr "Книги відсортовані за категоріями"
+msgstr "카테고리별 정렬"
 
 #: cps/templates/index.xml:94
 msgid "Books ordered by series"
-msgstr "Книги відсортовані за серією"
+msgstr "시리즈별 정렬"
 
 #: cps/templates/index.xml:101
 msgid "Books ordered by Languages"
-msgstr ""
+msgstr "언어별 정렬"
 
 #: cps/templates/index.xml:108
 msgid "Books ordered by Rating"
-msgstr ""
+msgstr "평점별 정렬"
 
 #: cps/templates/index.xml:116
 msgid "Books ordered by file formats"
-msgstr ""
+msgstr "파일 종류별 정렬"
 
 #: cps/templates/index.xml:119 cps/templates/layout.html:135
 #: cps/templates/search_form.html:87
 msgid "Shelves"
-msgstr ""
+msgstr "서재"
 
 #: cps/templates/index.xml:123
 msgid "Books organized in shelves"
-msgstr ""
+msgstr "서재별 정렬"
 
 #: cps/templates/layout.html:29
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
 #: cps/templates/layout.html:35
 msgid "Toggle Navigation"
-msgstr "Включити навігацію"
+msgstr "탐색 활성화"
 
 #: cps/templates/layout.html:46
 msgid "Search Library"
-msgstr ""
+msgstr "검색"
 
 #: cps/templates/layout.html:63 cps/templates/layout.html:117
 msgid "Uploading..."
-msgstr "Завантаження..."
+msgstr "업로드 중..."
 
 #: cps/templates/layout.html:63
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
 #: cps/templates/layout.html:63
 msgid "Upload done, processing, please wait..."
-msgstr ""
+msgstr "업로드 완료, 처리 중입니다. 잠시만 기다려 주십시오..."
 
 #: cps/templates/layout.html:76 cps/templates/read.html:71
 #: cps/templates/readcbr.html:84 cps/templates/readcbr.html:108
 msgid "Settings"
-msgstr "Налаштування"
+msgstr "설정"
 
 #: cps/templates/layout.html:78
 msgid "Account"
-msgstr ""
+msgstr "계정"
 
 #: cps/templates/layout.html:80
 msgid "Logout"
-msgstr "Вийти"
+msgstr "로그아웃"
 
 #: cps/templates/layout.html:118
 msgid "Please do not refresh the page"
-msgstr ""
+msgstr "페이지를 새로고침 하지 마세요."
 
 #: cps/templates/layout.html:128
 msgid "Browse"
-msgstr "Перегляд"
+msgstr "탐색"
 
 #: cps/templates/layout.html:141 cps/templates/stats.html:3
 msgid "About"
-msgstr "Про програму"
+msgstr "About"
 
 #: cps/templates/layout.html:155
 msgid "Previous"
-msgstr "Попередній перегляд"
+msgstr "이전"
 
 #: cps/templates/layout.html:182
 msgid "Book Details"
-msgstr "Деталі"
+msgstr "책 상세정보"
 
 #: cps/templates/login.html:18
 msgid "Remember Me"
-msgstr "Запам'ятати мене"
+msgstr "Remember Me"
 
 #: cps/templates/login.html:23
 msgid "Forgot Password?"
-msgstr ""
+msgstr "비밀번호를 잊으셨나요? "
 
 #: cps/templates/login.html:26
 msgid "Log in with Magic Link"
-msgstr "Увійдіть в систему за допомогою magic link"
+msgstr "Magic Link로 로그인"
 
 #: cps/templates/logviewer.html:6
 msgid "Show Calibre-Web Log: "
-msgstr ""
+msgstr "Calibre-Web 로그 표시:"
 
 #: cps/templates/logviewer.html:8
 msgid "Calibre-Web Log: "
-msgstr ""
+msgstr "Calibre-Web 로그:"
 
 #: cps/templates/logviewer.html:8
 msgid "Stream output, can't be displayed"
