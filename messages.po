@@ -2161,16 +2161,16 @@ msgstr "자동 감지"
 
 #: cps/templates/config_edit.html:281
 msgid "Custom Filter"
-msgstr ""
+msgstr "맞춤 필터"
 
 #: cps/templates/config_edit.html:286
 msgid "LDAP Member User Filter"
-msgstr ""
+msgstr "LDAP 구성원 사용자 필터"
 
 #: cps/templates/config_edit.html:297
 #, python-format
 msgid "Obtain %(provider)s OAuth Credential"
-msgstr ""
+msgstr "%(provider)s OAuth 자격 증명 얻기"
 
 #: cps/templates/config_edit.html:300
 #, python-format
@@ -2180,11 +2180,11 @@ msgstr ""
 #: cps/templates/config_edit.html:304
 #, python-format
 msgid "%(provider)s OAuth Client Secret"
-msgstr ""
+msgstr "%(provider)s OAuth 클라이언트 ID"
 
 #: cps/templates/config_edit.html:320
 msgid "External binaries"
-msgstr ""
+msgstr "외부 바이너리"
 
 #: cps/templates/config_edit.html:326
 msgid "Path to Calibre E-Book Converter"
@@ -2192,159 +2192,159 @@ msgstr ""
 
 #: cps/templates/config_edit.html:334
 msgid "Calibre E-Book Converter Settings"
-msgstr ""
+msgstr "Calibre E-Book 변환기 경로"
 
 #: cps/templates/config_edit.html:337
 msgid "Path to Kepubify E-Book Converter"
-msgstr ""
+msgstr "Kepubify 전자책 변환기 경로"
 
 #: cps/templates/config_edit.html:345
 msgid "Location of Unrar binary"
-msgstr ""
+msgstr "Unrar 바이너리의 위치"
 
 #: cps/templates/config_view_edit.html:17
 msgid "View Configuration"
-msgstr "Переглянути налаштування"
+msgstr "환경 설정 보기"
 
 #: cps/templates/config_view_edit.html:32
 msgid "No. of Random Books to Display"
-msgstr "Кількість показаних випадкових книг"
+msgstr "랜덤 보기시 표시할 책 수"
 
 #: cps/templates/config_view_edit.html:36
 msgid "No. of Authors to Display Before Hiding (0=Disable Hiding)"
-msgstr ""
+msgstr "숨기기 전에 표시할 저자 수(0=숨기기 비활성화)"
 
 #: cps/templates/config_view_edit.html:40 cps/templates/readcbr.html:113
 msgid "Theme"
-msgstr "Тема"
+msgstr "테마"
 
 #: cps/templates/config_view_edit.html:42
 msgid "Standard Theme"
-msgstr "Стандартна тема"
+msgstr "기본 테마"
 
 #: cps/templates/config_view_edit.html:43
 msgid "caliBlur! Dark Theme"
-msgstr ""
+msgstr "caliBlur! 다크 모드"
 
 #: cps/templates/config_view_edit.html:47
 msgid "Regular Expression for Ignoring Columns"
-msgstr "Regexp для ігнорування стовпців"
+msgstr "열을 무시하는 정규식"
 
 #: cps/templates/config_view_edit.html:51
 msgid "Link Read/Unread Status to Calibre Column"
-msgstr ""
+msgstr "읽음/읽지 않음 상태를 Calibre 열에 연결"
 
 #: cps/templates/config_view_edit.html:60
 msgid "View Restrictions based on Calibre column"
-msgstr ""
+msgstr "Calibre 열을 기반으로 한 보기 제한"
 
 #: cps/templates/config_view_edit.html:69
 msgid "Regular Expression for Title Sorting"
-msgstr "Regexp для сортування по назві"
+msgstr "제목 정렬을 위한 정규식"
 
 #: cps/templates/config_view_edit.html:80
 msgid "Default Settings for New Users"
-msgstr "Налаштування по замовчуванню для нових користувачів"
+msgstr "새 사용자를 위한 기본 설정"
 
 #: cps/templates/config_view_edit.html:88 cps/templates/user_edit.html:96
 msgid "Admin User"
-msgstr "Керування сервером"
+msgstr "관리자"
 
 #: cps/templates/config_view_edit.html:92 cps/templates/user_edit.html:101
 msgid "Allow Downloads"
-msgstr "Дозволити завантажувати з сервера"
+msgstr "다운로드 허용"
 
 #: cps/templates/config_view_edit.html:96 cps/templates/user_edit.html:105
 msgid "Allow eBook Viewer"
-msgstr ""
+msgstr "책 보기 허용"
 
 #: cps/templates/config_view_edit.html:101 cps/templates/user_edit.html:110
 msgid "Allow Uploads"
-msgstr "Дозволити завантаження на сервер"
+msgstr "업로드 허용"
 
 #: cps/templates/config_view_edit.html:106 cps/templates/user_edit.html:115
 msgid "Allow Edit"
-msgstr "Дозволити редагування книг"
+msgstr "편집 허용"
 
 #: cps/templates/config_view_edit.html:111 cps/templates/user_edit.html:120
 msgid "Allow Delete Books"
-msgstr ""
+msgstr "책 삭제 허용"
 
 #: cps/templates/config_view_edit.html:116 cps/templates/user_edit.html:126
 msgid "Allow Changing Password"
-msgstr "Дозволити зміну пароля"
+msgstr "비밀번호 변경 허용"
 
 #: cps/templates/config_view_edit.html:120 cps/templates/user_edit.html:130
 msgid "Allow Editing Public Shelves"
-msgstr "Дозволити редагування публічних книжкових полиць"
+msgstr "공개 서재 편집 허용"
 
 #: cps/templates/config_view_edit.html:123
 #, fuzzy
 msgid "Default Language"
-msgstr "Виключити мови"
+msgstr "기본 언어"
 
 #: cps/templates/config_view_edit.html:131
 #, fuzzy
 msgid "Default Visible Language of Books"
-msgstr "Показувати книги на мовах"
+msgstr "책의 기본 표시 언어"
 
 #: cps/templates/config_view_edit.html:147
 msgid "Default Visibilities for New Users"
-msgstr "Можливості за замовчуванням для нових користувачів"
+msgstr "신규 사용자를 위한 기본 기능"
 
 #: cps/templates/config_view_edit.html:163 cps/templates/user_edit.html:84
 #: cps/templates/user_table.html:154
 msgid "Show Random Books in Detail View"
-msgstr "Показувати випадкові книги при перегляді деталей"
+msgstr "상세 보기에서 임의의 책 표시"
 
 #: cps/templates/config_view_edit.html:165 cps/templates/user_edit.html:87
 msgid "Add Allowed/Denied Tags"
-msgstr ""
+msgstr "허용/거부 태그 추가"
 
 #: cps/templates/config_view_edit.html:166
 msgid "Add Allowed/Denied custom column values"
-msgstr ""
+msgstr "허용/거부 사용자 정의 열 값 추가"
 
 #: cps/templates/detail.html:60 cps/templates/detail.html:69
 msgid "Read in Browser"
-msgstr "Відкрити в браузері"
+msgstr "부라우저에서 보기"
 
 #: cps/templates/detail.html:77 cps/templates/detail.html:94
 msgid "Listen in Browser"
-msgstr ""
+msgstr "브라우저에서 듣기"
 
 #: cps/templates/detail.html:124
 #, python-format
 msgid "Book %(index)s of %(range)s"
-msgstr ""
+msgstr "책 %(index)s의 %(range)s"
 
 #: cps/templates/detail.html:173
 msgid "Published"
-msgstr ""
+msgstr "출간일"
 
 #: cps/templates/detail.html:221
 msgid "Mark As Unread"
-msgstr ""
+msgstr "읽지 않은 상태로 표시"
 
 #: cps/templates/detail.html:221
 msgid "Mark As Read"
-msgstr ""
+msgstr "읽은 상태로 표시"
 
 #: cps/templates/detail.html:222
 msgid "Read"
-msgstr "Прочитано"
+msgstr "읽기"
 
 #: cps/templates/detail.html:231
 msgid "Restore from archive"
-msgstr ""
+msgstr "아카이브에서 복원"
 
 #: cps/templates/detail.html:231
 msgid "Add to archive"
-msgstr ""
+msgstr "아카이브에 추가"
 
 #: cps/templates/detail.html:232
 msgid "Archived"
-msgstr ""
+msgstr "보관됨"
 
 #: cps/templates/detail.html:243
 msgid "Description:"
@@ -2352,37 +2352,37 @@ msgstr "Опис:"
 
 #: cps/templates/detail.html:256 cps/templates/search.html:14
 msgid "Add to shelf"
-msgstr "Додати на книжкову полицю"
+msgstr "서재에 추가"
 
 #: cps/templates/detail.html:267 cps/templates/detail.html:284
 #: cps/templates/feed.xml:79 cps/templates/layout.html:137
 #: cps/templates/search.html:20
 msgid "(Public)"
-msgstr ""
+msgstr "(공개)"
 
 #: cps/templates/detail.html:298
 msgid "Edit Metadata"
-msgstr "Редагувати метадані"
+msgstr "메타저오 편집"
 
 #: cps/templates/email_edit.html:13
 msgid "Choose Server Type"
-msgstr ""
+msgstr "서버 유형 선택"
 
 #: cps/templates/email_edit.html:15
 msgid "Use Standard E-Mail Account"
-msgstr ""
+msgstr "표준 이메일 계정 사용"
 
 #: cps/templates/email_edit.html:16
 msgid "Gmail Account with OAuth2 Verification"
-msgstr ""
+msgstr "OAuth2 인증이 있는 Gmail 계정"
 
 #: cps/templates/email_edit.html:22
 msgid "Setup Gmail Account as E-Mail Server"
-msgstr ""
+msgstr "Gmail 계정을 이메일 서버로 설정"
 
 #: cps/templates/email_edit.html:24
 msgid "Revoke Gmail Access"
-msgstr ""
+msgstr "Gmail 액세스 취소"
 
 #: cps/templates/email_edit.html:42
 msgid "STARTTLS"
