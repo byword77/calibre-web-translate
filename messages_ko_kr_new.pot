@@ -3110,7 +3110,7 @@ msgstr "언어"
 
 #: cps/templates/user_table.html:138
 msgid "Visible Book Languages"
-msgstr "책 언어"
+msgstr "표시할 책 언어"
 
 #: cps/templates/user_table.html:139
 msgid "Edit Allowed Tags"
