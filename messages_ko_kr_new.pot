@@ -1787,7 +1787,7 @@ msgstr "이 필드는 필수 항목입니다."
 
 #: cps/templates/book_table.html:37
 msgid "Merge selected books"
-msgstr ""
+msgstr "선택한 책 병합"
 
 #: cps/templates/book_table.html:38 cps/templates/user_table.html:124
 msgid "Remove Selections"
@@ -2093,7 +2093,7 @@ msgstr "LDAP 인증"
 
 #: cps/templates/config_edit.html:235
 msgid "Anonymous"
-msgstr "Anonymous"
+msgstr "익명"
 
 #: cps/templates/config_edit.html:236
 msgid "Unauthenticated"
@@ -2117,11 +2117,11 @@ msgstr "LDAP 고유 이름(DN)"
 
 #: cps/templates/config_edit.html:257
 msgid "LDAP User Object Filter"
-msgstr "LDAP User Object Filter"
+msgstr "LDAP 사용자 개체 필터"
 
 #: cps/templates/config_edit.html:262
 msgid "LDAP Server is OpenLDAP?"
-msgstr "LDAP Server is OpenLDAP?"
+msgstr "LDAP 서버는 OpenLDAP입니까?"
 
 #: cps/templates/config_edit.html:264
 msgid "Following Settings are Needed For User Import"
@@ -2163,12 +2163,12 @@ msgstr "%(provider)s OAuth 자격 증명 얻기"
 #: cps/templates/config_edit.html:300
 #, python-format
 msgid "%(provider)s OAuth Client Id"
-msgstr ""
+msgstr "%(provider)s OAuth 클라이언트 ID"
 
 #: cps/templates/config_edit.html:304
 #, python-format
 msgid "%(provider)s OAuth Client Secret"
-msgstr "%(provider)s OAuth 클라이언트 ID"
+msgstr "%(provider)s OAuth 클라이언트 암호"
 
 #: cps/templates/config_edit.html:320
 msgid "External binaries"
@@ -2176,11 +2176,11 @@ msgstr "외부 바이너리"
 
 #: cps/templates/config_edit.html:326
 msgid "Path to Calibre E-Book Converter"
-msgstr ""
+msgstr "Calibre E-Book 변환기 경로"
 
 #: cps/templates/config_edit.html:334
 msgid "Calibre E-Book Converter Settings"
-msgstr "Calibre E-Book 변환기 경로"
+msgstr "Calibre E-Book 변환기 경로 설정"
 
 #: cps/templates/config_edit.html:337
 msgid "Path to Kepubify E-Book Converter"
@@ -2334,7 +2334,7 @@ msgstr "보관됨"
 
 #: cps/templates/detail.html:243
 msgid "Description:"
-msgstr "Опис:"
+msgstr "설명:"
 
 #: cps/templates/detail.html:256 cps/templates/search.html:14
 msgid "Add to shelf"
@@ -2582,7 +2582,7 @@ msgstr "탐색"
 
 #: cps/templates/layout.html:141 cps/templates/stats.html:3
 msgid "About"
-msgstr "About"
+msgstr "서재 정보"
 
 #: cps/templates/layout.html:155
 msgid "Previous"
@@ -2594,7 +2594,7 @@ msgstr "책 상세정보"
 
 #: cps/templates/login.html:18
 msgid "Remember Me"
-msgstr "Remember Me"
+msgstr "로그인 유지"
 
 #: cps/templates/login.html:23
 msgid "Forgot Password?"
@@ -2614,11 +2614,11 @@ msgstr "Calibre-Web 로그:"
 
 #: cps/templates/logviewer.html:8
 msgid "Stream output, can't be displayed"
-msgstr ""
+msgstr "스트림 출력, 표시할 수 없음"
 
 #: cps/templates/logviewer.html:12
 msgid "Show Access Log: "
-msgstr "스트림 출력, 표시할 수 없음"
+msgstr "액세스 로그 표시:"
 
 #: cps/templates/logviewer.html:18
 msgid "Download Calibre-Web Log"
@@ -3002,7 +3002,7 @@ msgstr "시스템 통계"
 
 #: cps/templates/stats.html:33
 msgid "Program Library"
-msgstr "Program Library"
+msgstr "서재 프로그램"
 
 #: cps/templates/stats.html:34
 msgid "Installed Version"
