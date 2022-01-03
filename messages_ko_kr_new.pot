@@ -534,12 +534,12 @@ msgstr "%(file)s 파일을 저장하지 못했습니다."
 #: cps/editbooks.py:669 cps/editbooks.py:1072 cps/web.py:1663
 #, python-format
 msgid "Database error: %(error)s."
-msgstr ""
+msgstr "데이터베이스 오류: %(error)s."
 
 #: cps/editbooks.py:674
 #, python-format
 msgid "File format %(ext)s added to %(book)s"
-msgstr "데이터베이스 오류: %(error)s."
+msgstr "파일 형식 %(ext)s이(가) %(book)s에 추가되었습니다."
 
 #: cps/editbooks.py:810
 msgid "Identifiers are not Case Sensitive, Overwriting Old Identifier"
