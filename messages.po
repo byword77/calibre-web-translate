@@ -2348,7 +2348,7 @@ msgstr "(공개)"
 
 #: cps/templates/detail.html:298
 msgid "Edit Metadata"
-msgstr "메타저오 편집"
+msgstr "메타정보 편집"
 
 #: cps/templates/email_edit.html:13
 msgid "Choose Server Type"
